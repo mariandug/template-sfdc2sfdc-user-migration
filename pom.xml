@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.mule.templates</groupId>
         <artifactId>templates-tooling-parent-pom</artifactId>
-        <version>2.1.13</version>
+        <version>2.1.10</version>
     </parent>
 
     <artifactId>template-sfdc2sfdc-user-migration</artifactId>
@@ -12,12 +12,12 @@
     <packaging>mule-application</packaging>
     <name>template-sfdc2sfdc-user-migration</name>
     
-    <properties>
-    	<munit.version>2.1.4</munit.version>
-    	<sockets.connector.version>1.1.1</sockets.connector.version>
-    	<http.connector.version>1.4.1</http.connector.version>
-    	<sfdc.connector.version>9.4.6</sfdc.connector.version>
-    </properties>
+<!--     <properties> -->
+<!--     	<munit.version>2.1.4</munit.version> -->
+<!--     	<sockets.connector.version>1.1.1</sockets.connector.version> -->
+<!--     	<http.connector.version>1.4.1</http.connector.version> -->
+<!--     	<sfdc.connector.version>9.4.6</sfdc.connector.version> -->
+<!--     </properties> -->
     
     <dependencies>
         <dependency>
